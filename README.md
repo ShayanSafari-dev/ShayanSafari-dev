@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Shayan Safari
+# Hey there 👋 I'm Shayan Safari!
 
 ## 🚀 Aspiring AI Developer • Python Programmer • Math Enthusiast
 
