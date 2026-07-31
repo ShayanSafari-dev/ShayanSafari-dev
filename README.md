@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Shayan Safari!
 
-## 🚀 Aspiring AI Developer • Python Programmer • Math Enthusiast
+## 🚀 Python Programmer • Math Enthusiast
 
 I'm a student who loves building projects that solve real-world problems. I enjoy learning new technologies, designing clean user interfaces, and exploring Artificial Intelligence.
 
