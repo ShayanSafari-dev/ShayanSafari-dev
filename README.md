@@ -1,16 +1,20 @@
-## Hi there 👋
+##👋 Hi, I'm Shayan Safari
 
-<!--
-**ShayanSafari-dev/ShayanSafari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI Developer • Python Programmer • Math Enthusiast
 
-Here are some ideas to get you started:
+I'm a student who loves building projects that solve real-world problems. I enjoy learning new technologies, designing clean user interfaces, and exploring Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I'm still early in my programming journey, I believe the best way to learn is by building real projects and constantly improving them.
+
+---
+
+## 🧠 About Me
+
+- 🤖 Passionate about Artificial Intelligence
+- 🐍 Learning Python and software development
+- 🎨 I enjoy designing modern desktop applications
+- 📐 Math is my favorite subject
+- 💡 I love turning ideas into real products
+- 🌱 Always learning something new
+
+---
